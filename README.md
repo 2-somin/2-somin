@@ -36,6 +36,23 @@
 
 ---
 
+## Projects
+
+앱스토어에 출시한 서비스 2개를 디자인했습니다.
+
+### 틈틈잇
+> AI가 매일 생성해주는 일일 퀴즈 앱 — 자투리 시간을 알차게
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat)
+
+### thip
+> 커뮤니티형 독서 기록 앱 서비스 — 읽고, 기록하고, 함께 나누다
+
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.texthip.thip)
+
+---
+
 ## Background
 
 도예학과에서 조형의 원리와 미적 감각을 익혔고,
