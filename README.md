@@ -49,6 +49,7 @@
 > 커뮤니티형 독서 기록 앱 서비스 — 읽고, 기록하고, 함께 나누다
 
 [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.texthip.thip)
+[![Web](https://img.shields.io/badge/Web-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.thip.co.kr/)
 
 ---
 
